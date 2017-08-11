@@ -7,7 +7,7 @@ public static void PlayGame()
 	
 	while (true)
 	{
-		System.out.println("Please enter any key to play or \"0\" to exit):");
+		System.out.println("Please enter any key to play or \"0\" to exit:");
 		input = TextIO.getChar();
 		if (input == '0')
 		{
